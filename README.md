@@ -1,4 +1,4 @@
-# **US Mass shootings.**
+# **NYC school cafeterias & kitchens continue to fail inspections.**
   
 ## **Project objectives.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aim of the project was to select a widely used database from which many articles were written and try to find something new to tell. In addition, complement with other databases, such as firearms. In addition, the choice was based on the possibility of using maps, which I had not used in previous projects.
