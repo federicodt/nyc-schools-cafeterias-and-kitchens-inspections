@@ -3,14 +3,12 @@
 ## **Project objectives.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The initial objective of the project was to find out why most of the inspections of school cafeterias and kitchens in New York City were being done at Jewish educational institutions. Also, to see what other stories I could find by analyzing the data.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this purpose, the following data were analyzed: 
-1. [The Violence Project database](https://www.theviolenceproject.org/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this purpose, the following databases were analyzed: 
+1. [DOHMH School Cafeteria inspections](https://data.cityofnewyork.us/Health/DOHMH-School-Cafeteria-inspections/9hxz-c2kj), Department of Health and Mental Hygiene of NYC.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I decided to use this database and not another, because it is the most conservative of all. They have a definition of mass shooting that, in my opinion, fits better with the objective of the project. Additionally, on their website, they explain the methodology used. based on 311 Service Requests from 2010 to June 25, 2023, when i downloaded the dataset.
+2. [DOHMH School Cafeteria inspections (2020 - Present)](https://data.cityofnewyork.us/widgets/5ery-qagt?mobile_redirect=true).
 
-2. [Gun Violence Archive](https://www.gunviolencearchive.org/).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Gun Violence Archive [GVA] is an independent research and data collection organization and provides them in a comprehensive manner for the analysis of armed violence at the national level. A consolidated trail, the GVA pursued its mission and also began documenting the tens of thousands of firearms-related injuries and other related crimes. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dataset contains current inspection data for cafeterias permitted in public, private, and parochial schools in NYC. All school cafeterias are required to be in compliance with NYS and NYC Food Safety Regulations, found in New York City Health Code Article 81. School cafeteria inspections are conducted at least annually to ensure compliance with food safety regulations. This dataset includes information obtained as part of the permitting process and data collected during inspections. This data includes inspection results for active school cafeterias for the last three years. Data for cafeterias that have ceased operations and any violations cited during the inspection that were dismissed during adjudication are excluded from this dataset.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a complement, I carried out traditional journalistic work of news archive, to know what was published on the subject.
 
