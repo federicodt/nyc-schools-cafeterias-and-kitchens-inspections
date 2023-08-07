@@ -39,15 +39,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this project I decided that I was going to use other ways of graphing and/or displaying the information. In one I made a table in D3 inside a Scrollama, which turns into a bar chart as you scroll down. The classification, assembly and modifications was a long and difficult process, because I don't know Javascript and/or D3. Practically everything I wanted to do I had to look up. Clearly, this involved a lot of time. For another part of the article I decided to modify a Scrollama to change the images and text, as I had done in the previous project, but I was not satisfied with the result. This time I think it was better and I used photographs that I supported with data that I obtained from the analysis of the information.
 
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I wanted to do a pretty deep analysis of the information, but time did not allow it. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think the most difficult thing was the number of errors, obstacles and problems that arose throughout the project. But they also helped me to learn.
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I think the most difficult thing was the number of errors, obstacles and problems that arose throughout the project, such as the lack of coordinates in some schools, to mentioned an example. Until this project I hadn't had to do and invest so much time and effort in data cleaning. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If I had more time, more skills and more confidence in them, I would have used Mapbox and Ilustrator for the maps. Also, I would have made a better and Deep data análisis, article, graphics and web page.
 
