@@ -1,7 +1,7 @@
 # **NYC school cafeterias & kitchens continue to fail inspections.**
   
 ## **Project objectives.**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The aim of the project was to select a widely used database from which many articles were written and try to find something new to tell. In addition, complement with other databases, such as firearms. In addition, the choice was based on the possibility of using maps, which I had not used in previous projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The initial objective of the project was to find out why most of the inspections of school cafeterias and kitchens in New York City were being done at Jewish educational institutions. Also, to see what other stories I could find by analyzing the data.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this purpose, the following data were analyzed: 
 1. [The Violence Project database](https://www.theviolenceproject.org/).
