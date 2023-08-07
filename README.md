@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this purpose, the following databases were analyzed: 
 1. [DOHMH School Cafeteria inspections](https://data.cityofnewyork.us/Health/DOHMH-School-Cafeteria-inspections/9hxz-c2kj), Department of Health and Mental Hygiene of NYC.
 
-2. [DOHMH School Cafeteria inspections (2020 - Present)](https://data.cityofnewyork.us/widgets/5ery-qagt?mobile_redirect=true).
+2. [DOHMH School Cafeteria inspections (2020 - Present)](https://data.cityofnewyork.us/widgets/5ery-qagt?mobile_redirect=true), Department of Health and Mental Hygiene of NYC.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dataset contains current inspection data for cafeterias permitted in public, private, and parochial schools in NYC. All school cafeterias are required to be in compliance with NYS and NYC Food Safety Regulations, found in New York City Health Code Article 81. School cafeteria inspections are conducted at least annually to ensure compliance with food safety regulations. This dataset includes information obtained as part of the permitting process and data collected during inspections. This data includes inspection results for active school cafeterias for the last three years. Data for cafeterias that have ceased operations and any violations cited during the inspection that were dismissed during adjudication are excluded from this dataset.
 
